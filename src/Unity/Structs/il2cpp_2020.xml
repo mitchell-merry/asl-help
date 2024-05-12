@@ -59,6 +59,7 @@
     <Field Name="instance_size" Type="uint" />
     <Field Name="actualSize" Type="uint" />
     <Field Name="element_size" Type="uint" />
+    <Field Name="padding1" Type="uint" />
     <Field Name="native_size" Type="int" />
     <Field Name="static_fields_size" Type="uint" />
     <Field Name="thread_static_fields_size" Type="uint" />
